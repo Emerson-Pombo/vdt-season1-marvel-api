@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Emerson-Pombo/vdt-season1-marvel-api#readme",
   "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
     "cypress": "^10.3.0"
   }
 }
